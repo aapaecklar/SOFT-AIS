@@ -1,4 +1,4 @@
-# SOFTware-Analyser for Industrial Stress (SOFT-AIS)
+# Documentation
 
 [Start page](README.md) | [Documentation](documentation.md) | [Download](download.md)
 
