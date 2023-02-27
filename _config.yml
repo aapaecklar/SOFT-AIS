@@ -6,3 +6,16 @@ description: Residual Stress Analysis Software
 show_downloads: true
 github:
 zip_url: Windows_Installer/.gitignore
+
+related_resources_title: Other Resources
+
+related_resources_list:
+
+- title: Forums
+  hurl: https://some.developer.forum.com/
+
+- title: More Documentation
+  hurl: https://more.documentation.company.com
+
+- title: Documentation Portal
+  hurl: https://my.documentation.portal
