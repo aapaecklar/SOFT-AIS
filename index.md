@@ -9,6 +9,8 @@
 </head>
 <body>
     <main>
+        
+        [Start page](index.md) | [Documentation](documentation.md) | [Download](download.md)
         <h1 class="test-primary" mt-4>This will be the repository of the EASI-STRESS project software. This site is currently under construction.</h1>
 
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum ut itaque facere placeat maiores modi architecto error harum libero, id odit nostrum corporis in repellendus. Asperiores doloremque quod laborum in.</p>
