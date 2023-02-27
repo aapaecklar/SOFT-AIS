@@ -10,7 +10,7 @@ This repository represents the home for the software developed within the EASI-S
 Reporting bugs or asking for help
 ---------------------------------
 
-Please report any bugs or ask for help by creating a new [issue](https://github.com/...).
+Please report any bugs or ask for help by creating a new [issue](https://github.com/aapaecklar/SOFT-AIS/issues).
 
 Funding
 -------
