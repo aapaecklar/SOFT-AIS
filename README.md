@@ -2,7 +2,6 @@
 -------------------------
 # SOFTware-Analyser for Industrial Stress (SOFT-AIS) <img src="images/EIS.jpg" alt="SOFT-AIS Logo" style="width:35px;">
 
-
 [Start page](README.md) | [Documentation](documentation.md) | [Installation](download.md)
 
 -------------------------
