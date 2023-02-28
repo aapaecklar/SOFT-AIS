@@ -10,10 +10,12 @@ This repository represents the home for the software developed within the [EASI-
 
 ## News
 -------
+
 Information about updates and new features will be listed here. 
 
 ## Ask Questions
 -------------------------
+
 There will be a forum created for SOFT-AIS where you can submit questions. 
 
 ## Reporting bugs or asking for help
@@ -31,6 +33,7 @@ Once, the new program is published, we will post the link to the publication and
 
 ## Acknowledgements
 -------------------------
+We would like to acknowledge the contributions from all the people within WP4 of the EASI-STRESS project who have provided input on the software development.
 
 ## Funding
 -------------------------
