@@ -8,11 +8,11 @@ Currently we do not have an installation file yet that could be distributed to t
 
 
 ## Requirements
----------------------------------
+
 SOFT-AIS will run under Windows, Mac, and Linux.
 
 ## Download
----------------------------------
+
 Here you can download the installer files for different environments:
 
 Testing download Links !!!
@@ -47,10 +47,10 @@ Testing download Links !!!
 
 
 ## Installation
----------------------------------
+
 
 
 
 ## Example Dataset
----------------------------------
+
 We will post an example data set here from SALSA.
