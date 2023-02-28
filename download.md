@@ -17,3 +17,10 @@ Here you can download the installer files for different environments:
 
 <a href="https://github.com/aapaecklar/SOFT-AIS/Linux_installer/test.tar" download>Click to Download</a>
 
+
+
+<a download="https://github.com/aapaecklar/SOFT-AIS/Linux_installer/test.tar" href="images/EIS.jpg" title="Linux Download">
+    <img alt="Linux Download" src="images/EIS.jpg">
+</a>
+
+
