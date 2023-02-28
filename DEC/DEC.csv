@@ -1,1 +1,5 @@
-Diff Elastic Constant Table
+Diffraction Elastic Constants,,,
+,,,
+Entry,Material,Youngs modulus,Poissons ratio
+1,Al,210,0.3
+2,Fe,300,0.25
