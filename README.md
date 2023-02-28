@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 [Start page](README.md) | [Documentation](documentation.md) | [Download](download.md)
 
 -------------------------
