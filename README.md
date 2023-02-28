@@ -1,18 +1,36 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[Start page](README.md) | [Documentation](documentation.md) | [Download](download.md)
+[Start page](README.md) | [Documentation](documentation.md) | [Installation](download.md)
 
 -------------------------
 
 # SOFTware-Analyser for Industrial Stress (SOFT-AIS) <img src="images/EIS.jpg" alt="SOFT-AIS Logo" style="width:75px;">
 
-This repository represents the home for the software developed within the [EASI-STRESS](https://easi-stress.eu/) project. It is used to analyse neutron and synchrotron X-ray data.
+This repository represents the home for the software developed within the [EASI-STRESS](https://easi-stress.eu/) project. It is used to analyse neutron and synchrotron X-ray data. The input data has to be in the [NeXus format](http://www.nexusformat.org/) following the NXstress application definition (not yet published).
 
+## News
+---------------------------------
+Information about updates and new features will be listed here. 
+
+## Ask Questions
+---------------------------------
+There will be a forum created for SOFT-AIS where you can submit questions. 
 
 ## Reporting bugs or asking for help
 ---------------------------------
 
 This software is still under development. Therefore, please report any bugs or ask for help by creating a new [issue](https://github.com/aapaecklar/SOFT-AIS/issues).
+
+## Citing
+---------------------------------
+Once, the new program is published, we will post the link to the publication and the information on how to cite the software here.
+
+## Authors and Developers
+---------------------------------
+
+
+## Acknowledgements
+---------------------------------
 
 ## Funding
 -------

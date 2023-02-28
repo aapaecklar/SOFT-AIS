@@ -1,9 +1,8 @@
-[Start page](README.md) | [Documentation](documentation.md) | [Download](download.md)
+[Start page](README.md) | [Documentation](documentation.md) | [Installation](download.md)
 
 -------------------------
 
 # Documentation
-
 
 Here you can find the documentation on how to use the software. 
 
