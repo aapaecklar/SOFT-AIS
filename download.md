@@ -26,7 +26,7 @@ Here you can download the installer files for different environments:
 [Click_here]:{{ site.url }}/Linux_installer/test.tar
 
 <a href="https://github.com/aapaecklar/SOFT-AIS/Linux_installer/test.zip">
-    My Folder
+    Download Folder
 </a>
 
 
