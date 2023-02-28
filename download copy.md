@@ -23,7 +23,7 @@ Testing download Links !!!
 
 
 
-<a id="raw-url" href="https://github.com/aapaecklar/SOFT-AIS/Linux_installer/test.tar">test.tar</a> | Linux Installer      |
+<a id="raw-url" href="https://github.com/aapaecklar/SOFT-AIS/tree/publish_markup/Linux_installer/test.tar">test.tar</a> | Linux Installer      |
 
 <a href="https://github.com/aapaecklar/SOFT-AIS/tree/publish_markup/Linux_installer/test.tar" download>Click to Download</a>
 
