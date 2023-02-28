@@ -25,17 +25,17 @@ Testing download Links !!!
 
 <a id="raw-url" href="https://github.com/aapaecklar/SOFT-AIS/Linux_installer/test.tar">test.tar</a> | Linux Installer      |
 
-<a href="https://github.com/aapaecklar/SOFT-AIS/Linux_installer/test.tar" download>Click to Download</a>
+<a href="https://github.com/aapaecklar/SOFT-AIS/tree/publish_markup/Linux_installer/test.tar" download>Click to Download</a>
 
 
 
-<a download="https://github.com/aapaecklar/SOFT-AIS/Linux_installer/test.tar" href="images/EIS.jpg" title="Linux Download">
+<a download="https://github.com/aapaecklar/SOFT-AIS/tree/publish_markup/Linux_installer/test.tar" href="images/EIS.jpg" title="Linux Download">
     <img alt="Linux Download" src="images/EIS.jpg">
 </a>
 
 [Click_here]({{ site.url }}/Linux_installer/test.tar)
 
-<a href="https://github.com/aapaecklar/SOFT-AIS/Linux_installer/test.zip">
+<a href="https://github.com/aapaecklar/SOFT-AIS/tree/publish_markup/Linux_installer/test.zip">
     Download Link
 </a>
 
