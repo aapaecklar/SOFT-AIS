@@ -1,6 +1,9 @@
+[Start page](README.md) | [Documentation](documentation.md) | [Download](download.md)
+
+-------------------------
+
 # Download Page
 
-[Start page](README.md) | [Documentation](documentation.md) | [Download](download.md)
 
 Here you can download the installer files for different environments:
 
@@ -9,4 +12,8 @@ Here you can download the installer files for different environments:
 <a id="raw-url" href="https://github.com/joergklein/packages/raw/master/centos/8/x86_64/rpms/hello-2.10-1.el8.x86_64.rpm">hello-2.10-1.el8.rpm</a> | Hello, the rpm binary      |
 
 
+
+<a id="raw-url" href="https://github.com/aapaecklar/SOFT-AIS/Linux_installer/test.tar">test.tar</a> | Linux Installer      |
+
+<a href="https://github.com/aapaecklar/SOFT-AIS/Linux_installer/test.tar" download>Click to Download</a>
 
