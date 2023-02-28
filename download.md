@@ -39,7 +39,7 @@ Testing download Links !!!
     Download Link
 </a>
 
-| *OS*  | *Link* |
+| **OS**  | **Link** |
 | ------------------------------ | ------------------------------------- |
 | Windows| <a href="https://github.com/aapaecklar SOFT-AIS/Linux_installer/test.zip"> Download Link </a>                         |
 | Mac | <a href="https://github.com/aapaecklar/SOFT-AIS/Linux_installer/test.zip">Download Link <a>                                     |
