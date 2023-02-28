@@ -4,7 +4,7 @@
 
 -------------------------
 
-# SOFTware-Analyser for Industrial Stress (SOFT-AIS) <img src="images/EIS.jpg" alt="SOFT-AIS Logo" style="width:75px;">
+# SOFTware-Analyser for Industrial Stress (SOFT-AIS) <img src="images/EIS.jpg" alt="SOFT-AIS Logo" style="width:35px;">
 
 This repository represents the home for the software developed within the [EASI-STRESS](https://easi-stress.eu/) project. It is used to analyse neutron and synchrotron X-ray data. The input data has to be in the [NeXus format](http://www.nexusformat.org/) following the NXstress application definition (not yet published).
 
