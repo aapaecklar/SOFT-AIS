@@ -8,12 +8,13 @@
 
 ## Introduction
 
-This repository represents the home for the software developed within the [EASI-STRESS](https://easi-stress.eu/) project. It is used to analyse neutron and synchrotron X-ray data. The input data has to be in the [NeXus format](http://www.nexusformat.org/) following the NXstress application definition (not yet published).
+This repository represents the home for the software developed within the [EASI-STRESS](https://easi-stress.eu/) project. This common software is calculates residual stress values and read and eventually display metadata for all participating instruments. It is currently used to analyse neutron and synchrotron X-ray data. The input data has to be in the [NeXus format](http://www.nexusformat.org/) following the NXstress application definition (not yet published).
 
 ## News
 
+Information about updates and new features will be listed here:
 
-Information about updates and new features will be listed here. 
+* We are currently working on progamming the installation files for the first public release.
 
 ## Ask Questions
 
