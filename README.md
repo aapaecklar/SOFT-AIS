@@ -31,7 +31,7 @@ Once, the new program is published, we will post the link to the publication and
 
 ## Authors and Developers
 
-Tamás SZABOLICS wrote the software. 
+Tamás SZABOLICS wrote the software under the coordination of Arnold Paecklar, Thilo Pirling, and Sandra Cabeza. 
 
 ## Acknowledgements
 
