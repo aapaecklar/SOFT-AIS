@@ -45,6 +45,12 @@ Testing download Links !!!
 | Mac | <a href="https://github.com/aapaecklar/SOFT-AIS/Linux_installer/test.zip">Download Link <a>                                     |
 | Linux | <a href="https://github.com/aapaecklar/SOFT-AIS/Linux_installer/test.zip"> Download Link </a> |
 
+OS  | Link 
+-- | ---
+Windows| <a href="https://github.com/aapaecklar SOFT-AIS/Linux_installer/test.zip"> Download Link </a>                         
+ Mac | <a href="https://github.com/aapaecklar/SOFT-AIS/Linux_installer/test.zip">Download Link <a>                                     
+Linux | <a href="https://github.com/aapaecklar/SOFT-AIS/Linux_installer/test.zip"> Download Link </a> 
+
 
 ## Installation
 ---------------------------------
