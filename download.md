@@ -21,8 +21,6 @@ Here you can download the installer files for different environments:
 
 Testing download Links !!!
 
-<a href="https://aapaecklar.github.io/SOFT-AIS/Linux_installer/test.zip" target="_blank" </a>
-
 
 | **OS**  | **Link** |
 | ------------------------------ | ------------------------------------- |
