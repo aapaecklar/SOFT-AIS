@@ -1,0 +1,9 @@
+Diffraction Elastic Constants,,,,,,,,  ---- TEST DUMMY FILE,,,,
+,,,,,,,,,,,,
+Entry,Material,Composition,Phase,hkl,Temperature,Youngs modulus,Error,Poissons ratio,Error,Determined,Publication_Name,Publication_Year
+1,Al,Al,,200,,67.2,,0.35,,simulated,Berechnung der elastischen Konstanten des Vielkristalls aus den Konstanten des Einkristalls,1958
+,Al,Al,,311,,70.2,,0.35,,simulated,Berechnung der elastischen Konstanten des Vielkristalls aus den Konstanten des Einkristalls,1958
+,Al,Al,,420,,70.3,,0.35,,simulated,Berechnung der elastischen Konstanten des Vielkristalls aus den Konstanten des Einkristalls,1958
+2,Fe,Fe,gamma,200,,149,,0.34,,simulated,Berechnung der elastischen Konstanten des Vielkristalls aus den Konstanten des Einkristalls,1958
+3,Inconel 718,Cr19Fe18.5Mo3Nb5.1Al0.5Ti0.9C0.04,,111,50,265,,0.25,,measured,Determination of the high temperature elastic properties and diffraction elastic constants of Ni-base superalloys,2016
+,Inconel 720,Cr19Fe18.5Mo3Nb5.1Al0.5Ti0.9C0.06,,311,50,205,,0.325,,measured,Determination of the high temperature elastic properties and diffraction elastic constants of Ni-base superalloys,2016
