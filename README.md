@@ -1,2 +1,2 @@
 # SOFT-AIS
-This repository hold EASI-STRESS WP4 common software and its documentation.
+This repository will hold the EASI-STRESS WP4 common software and its documentation.
