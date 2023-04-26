@@ -31,6 +31,11 @@ Testing download Links !!!
 
 ## Installation
 
+<a download="EASI-STRESS_eu-funding.png" href="/image" title="ImageName">
+    <img alt="ImageName" src="/image">
+</a>
+  
+  
 
 
 
