@@ -31,8 +31,8 @@ Testing download Links !!!
 
 ## Installation
 
-<a download="EASI-STRESS_eu-funding.png" href="/image" title="ImageName">
-    <img alt="ImageName" src="/image">
+<a download="EASI-STRESS_eu-funding.png" href="https://github.com/aapaecklar/SOFT-AIS/blob/b9792dbf1455521dc1bc892ccb02127664e98cfc/images/" title="ImageName">
+    <img alt="ImageName" src="https://github.com/aapaecklar/SOFT-AIS/blob/b9792dbf1455521dc1bc892ccb02127664e98cfc/images/">
 </a>
   
   
