@@ -35,7 +35,7 @@ Testing download Links !!!
     <img alt="ImageName" src="https://github.com/aapaecklar/SOFT-AIS/blob/b9792dbf1455521dc1bc892ccb02127664e98cfc/images/">
 </a>
   
-[download](https://github.com/aapaecklar/SOFT-AIS/blob/46e7349fcd694f6efb041cdb93a7ce850db0fcc7/Windows_Installer/test_download.zip)
+[download zip-file](https://github.com/aapaecklar/SOFT-AIS/blob/46e7349fcd694f6efb041cdb93a7ce850db0fcc7/Windows_Installer/test_download.zip)
 
 [Download zip-file](https://github.com/naokazuterada/MarkdownTOC/archive/master.zip)
 
