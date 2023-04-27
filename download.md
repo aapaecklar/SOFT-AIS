@@ -38,6 +38,8 @@ Testing download Links !!!
 [download zip-file](https://github.com/aapaecklar/SOFT-AIS/blob/46e7349fcd694f6efb041cdb93a7ce850db0fcc7/Windows_Installer/test_download.zip)
 
 [Download zip-file](https://github.com/naokazuterada/MarkdownTOC/archive/master.zip)
+    
+[For reals Download zip-file](https://raw.githubusercontent.com/aapaecklar/SOFT-AIS/main/new_folder/test_download.zip)    
 
 ## Example Dataset
 
